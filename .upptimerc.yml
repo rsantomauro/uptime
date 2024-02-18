@@ -7,15 +7,13 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
+  - name: GitHub
+    url: https://github.com
   - name: Tienda Inglesa
     url: https://www.tiendainglesa.com.uy
   - name: Ubersuggest
     url: https://app.neilpatel.com/en/login
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
