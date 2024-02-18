@@ -10,7 +10,7 @@ sites:
   - name: Tienda Inglesa
     url: https://www.tiendainglesa.com.uy
   - name: Ubersuggest
-    url: https://neilpatel.com/ubersuggest/
+    url: https://app.neilpatel.com/en/login
   - name: IPv6 test
     url: forwardemail.net
     port: 80
