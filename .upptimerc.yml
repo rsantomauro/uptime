@@ -7,10 +7,10 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Tienda Inglesa
+    url: https://www.tiendainglesa.com.uy
+  - name: Ubersuggest
+    url: https://neilpatel.com/ubersuggest/
   - name: IPv6 test
     url: forwardemail.net
     port: 80
