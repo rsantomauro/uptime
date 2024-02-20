@@ -13,6 +13,8 @@ sites:
     url: https://www.tiendainglesa.com.uy
   - name: Ubersuggest
     url: https://app.neilpatel.com/en/login
+  - name: Antel
+    url: https://pagos.antel.com.uy/epagos-w2w-comercio-web/jsf/error.xhtml
 
 
 status-website:
