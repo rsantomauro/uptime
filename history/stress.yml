@@ -1,7 +1,7 @@
 url: https://stress-test.tiendainglesa.com.uy/
-status: down
-code: 503
-responseTime: 210
-lastUpdated: 2024-02-22T18:34:39.714Z
+status: up
+code: 200
+responseTime: 831
+lastUpdated: 2024-02-22T18:43:22.731Z
 startTime: 2024-02-22T16:42:52.267Z
 generator: Upptime <https://github.com/upptime/upptime>
