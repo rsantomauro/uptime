@@ -115,19 +115,19 @@
     "url": "https://stress-test.tiendainglesa.com.uy/",
     "icon": "https://icons.duckduckgo.com/ip3/stress-test.tiendainglesa.com.uy.ico",
     "slug": "stress",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 755,
-    "timeDay": 755,
-    "timeWeek": 755,
-    "timeMonth": 755,
-    "timeYear": 755,
+    "status": "up",
+    "uptime": "92.76%",
+    "uptimeDay": "92.76%",
+    "uptimeWeek": "92.76%",
+    "uptimeMonth": "92.76%",
+    "uptimeYear": "92.76%",
+    "time": 780,
+    "timeDay": 780,
+    "timeWeek": 780,
+    "timeMonth": 780,
+    "timeYear": 780,
     "dailyMinutesDown": {
-      "2024-02-22": 0
+      "2024-02-22": 9
     }
   }
 ]
