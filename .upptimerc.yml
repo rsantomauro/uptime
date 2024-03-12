@@ -15,8 +15,8 @@ sites:
     url: https://pagos.antel.com.uy/epagos-w2w-comercio-web/jsf/error.xhtml
   - name: Ubersuggest
     url: https://app.neilpatel.com/en/login
-  - name: Stress
-    url: https://stress-test.tiendainglesa.com.uy/
+  - name: TiendaMia
+    url: https://tiendamia.cr
 
 
 status-website:
