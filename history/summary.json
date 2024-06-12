@@ -61,19 +61,19 @@
     "url": "https://www.tiendainglesa.com.uy",
     "icon": "https://icons.duckduckgo.com/ip3/www.tiendainglesa.com.uy.ico",
     "slug": "tienda-inglesa",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 820,
-    "timeDay": 1720,
-    "timeWeek": 812,
-    "timeMonth": 705,
+    "timeDay": 1321,
+    "timeWeek": 825,
+    "timeMonth": 712,
     "timeYear": 820,
     "dailyMinutesDown": {
-      "2024-06-12": 0
+      "2024-06-12": 7
     }
   },
   {
@@ -134,7 +134,7 @@
     "timeMonth": 114,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2024-06-12": 810,
+      "2024-06-12": 817,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
       "2024-06-09": 1440,
