@@ -61,9 +61,9 @@
     "url": "https://www.tiendainglesa.com.uy",
     "icon": "https://icons.duckduckgo.com/ip3/www.tiendainglesa.com.uy.ico",
     "slug": "tienda-inglesa",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -72,7 +72,9 @@
     "timeWeek": 812,
     "timeMonth": 705,
     "timeYear": 820,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-12": 0
+    }
   },
   {
     "name": "Antel",
@@ -132,7 +134,7 @@
     "timeMonth": 114,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2024-06-12": 63,
+      "2024-06-12": 810,
       "2024-06-11": 1440,
       "2024-06-10": 1440,
       "2024-06-09": 1440,
