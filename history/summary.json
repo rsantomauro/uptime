@@ -111,19 +111,19 @@
     "url": "https://app.neilpatel.com/en/login",
     "icon": "https://icons.duckduckgo.com/ip3/app.neilpatel.com.ico",
     "slug": "ubersuggest",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 213,
-    "timeDay": 121,
-    "timeWeek": 166,
-    "timeMonth": 177,
-    "timeYear": 213,
+    "timeDay": 175,
+    "timeWeek": 177,
+    "timeMonth": 180,
+    "timeYear": 214,
     "dailyMinutesDown": {
-      "2025-02-19": 0
+      "2025-02-19": 9
     }
   },
   {
