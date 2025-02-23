@@ -1,7 +1,7 @@
 url: https://app.neilpatel.com/en/login
-status: up
-code: 200
-responseTime: 134
-lastUpdated: 2025-02-22T23:06:01.671Z
+status: down
+code: 403
+responseTime: 184
+lastUpdated: 2025-02-23T11:16:10.877Z
 startTime: 2024-02-18T04:35:59.565Z
 generator: Upptime <https://github.com/upptime/upptime>
