@@ -116,17 +116,16 @@
     "slug": "ubersuggest",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "98.11%",
-    "uptimeMonth": "99.25%",
-    "uptimeYear": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.19%",
+    "uptimeMonth": "99.27%",
+    "uptimeYear": "99.90%",
     "time": 208,
     "timeDay": 205,
     "timeWeek": 204,
     "timeMonth": 214,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2025-04-11": 9,
       "2025-04-07": 17,
       "2025-04-06": 115,
       "2025-04-05": 49,
@@ -154,7 +153,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
-    "uptimeYear": "53.76%",
+    "uptimeYear": "53.78%",
     "time": 1286,
     "timeDay": 992,
     "timeWeek": 1106,
@@ -330,8 +329,7 @@
       "2024-04-16": 1440,
       "2024-04-15": 1440,
       "2024-04-14": 1440,
-      "2024-04-13": 1440,
-      "2024-04-12": 1440
+      "2024-04-13": 1440
     }
   }
 ]
