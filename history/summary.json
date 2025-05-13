@@ -117,9 +117,9 @@
     "slug": "ubersuggest",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.12%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.14%",
     "uptimeYear": "99.82%",
     "time": 210,
     "timeDay": 173,
@@ -127,7 +127,6 @@
     "timeMonth": 225,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2025-05-12": 9,
       "2025-05-11": 22,
       "2025-05-07": 35,
       "2025-05-04": 17,
@@ -166,11 +165,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/tiendamia.cr.ico",
     "slug": "tienda-mia",
     "status": "up",
-    "uptime": "53.32%",
+    "uptime": "53.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "62.25%",
+    "uptimeYear": "62.27%",
     "time": 1466,
     "timeDay": 1193,
     "timeWeek": 992,
@@ -316,8 +315,7 @@
       "2024-05-17": 1440,
       "2024-05-16": 1440,
       "2024-05-15": 1440,
-      "2024-05-14": 1440,
-      "2024-05-13": 1440
+      "2024-05-14": 1440
     }
   }
 ]
