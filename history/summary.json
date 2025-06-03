@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 98,
-    "timeWeek": 103,
-    "timeMonth": 116,
+    "timeDay": 106,
+    "timeWeek": 106,
+    "timeMonth": 115,
     "timeYear": 105,
     "dailyMinutesDown": {
       "2025-04-25": 33,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 211,
-    "timeDay": 113,
-    "timeWeek": 132,
-    "timeMonth": 108,
+    "timeDay": 111,
+    "timeWeek": 142,
+    "timeMonth": 107,
     "timeYear": 208,
     "dailyMinutesDown": {}
   },
@@ -50,8 +50,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 129,
-    "timeDay": 176,
-    "timeWeek": 172,
+    "timeDay": 171,
+    "timeWeek": 174,
     "timeMonth": 135,
     "timeYear": 123,
     "dailyMinutesDown": {
@@ -72,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 952,
-    "timeDay": 923,
-    "timeWeek": 765,
-    "timeMonth": 832,
+    "timeDay": 893,
+    "timeWeek": 773,
+    "timeMonth": 829,
     "timeYear": 992,
     "dailyMinutesDown": {
       "2025-02-04": 16
@@ -92,8 +92,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 1164,
-    "timeDay": 1174,
-    "timeWeek": 1044,
+    "timeDay": 1195,
+    "timeWeek": 1046,
     "timeMonth": 1119,
     "timeYear": 1142,
     "dailyMinutesDown": {
@@ -121,9 +121,9 @@
     "uptimeMonth": "99.67%",
     "uptimeYear": "99.81%",
     "time": 213,
-    "timeDay": 191,
-    "timeWeek": 344,
-    "timeMonth": 252,
+    "timeDay": 230,
+    "timeWeek": 353,
+    "timeMonth": 251,
     "timeYear": 212,
     "dailyMinutesDown": {
       "2025-05-14": 18,
@@ -166,16 +166,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tiendamia.cr.ico",
     "slug": "tienda-mia",
     "status": "up",
-    "uptime": "55.42%",
+    "uptime": "55.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "67.75%",
-    "time": 1476,
-    "timeDay": 12339,
-    "timeWeek": 2675,
-    "timeMonth": 1479,
-    "timeYear": 1777,
+    "uptimeYear": "68.02%",
+    "time": 1475,
+    "timeDay": 1219,
+    "timeWeek": 2683,
+    "timeMonth": 1477,
+    "timeYear": 1779,
     "dailyMinutesDown": {
       "2025-04-25": 20,
       "2025-03-29": 93,
@@ -295,8 +295,7 @@
       "2024-06-07": 1440,
       "2024-06-06": 1440,
       "2024-06-05": 1440,
-      "2024-06-04": 1440,
-      "2024-06-03": 1440
+      "2024-06-04": 1440
     }
   }
 ]
