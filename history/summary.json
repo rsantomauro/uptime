@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 75,
-    "timeWeek": 85,
-    "timeMonth": 100,
+    "timeDay": 125,
+    "timeWeek": 92,
+    "timeMonth": 101,
     "timeYear": 106,
     "dailyMinutesDown": {
       "2025-04-25": 33,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 210,
-    "timeDay": 48,
-    "timeWeek": 129,
-    "timeMonth": 115,
+    "timeDay": 176,
+    "timeWeek": 142,
+    "timeMonth": 120,
     "timeYear": 207,
     "dailyMinutesDown": {}
   },
@@ -50,9 +50,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 130,
-    "timeDay": 44,
-    "timeWeek": 114,
-    "timeMonth": 138,
+    "timeDay": 137,
+    "timeWeek": 126,
+    "timeMonth": 137,
     "timeYear": 124,
     "dailyMinutesDown": {
       "2025-06-07": 18,
@@ -73,10 +73,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 947,
-    "timeDay": 516,
-    "timeWeek": 598,
-    "timeMonth": 754,
-    "timeYear": 990,
+    "timeDay": 807,
+    "timeWeek": 629,
+    "timeMonth": 740,
+    "timeYear": 991,
     "dailyMinutesDown": {
       "2025-02-04": 16
     }
@@ -93,9 +93,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 1159,
-    "timeDay": 1954,
-    "timeWeek": 1189,
-    "timeMonth": 1098,
+    "timeDay": 989,
+    "timeWeek": 1200,
+    "timeMonth": 1078,
     "timeYear": 1145,
     "dailyMinutesDown": {
       "2025-04-30": 52,
@@ -106,8 +106,7 @@
       "2025-02-20": 24,
       "2024-10-24": 49,
       "2024-10-23": 26,
-      "2024-07-04": 17,
-      "2024-06-13": 27
+      "2024-07-04": 17
     }
   },
   {
@@ -122,9 +121,9 @@
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.81%",
     "time": 213,
-    "timeDay": 290,
-    "timeWeek": 250,
-    "timeMonth": 266,
+    "timeDay": 364,
+    "timeWeek": 265,
+    "timeMonth": 277,
     "timeYear": 213,
     "dailyMinutesDown": {
       "2025-05-14": 18,
@@ -167,16 +166,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tiendamia.cr.ico",
     "slug": "tienda-mia",
     "status": "up",
-    "uptime": "56.40%",
+    "uptime": "56.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "70.49%",
-    "time": 1467,
-    "timeDay": 789,
-    "timeWeek": 930,
-    "timeMonth": 1472,
-    "timeYear": 1802,
+    "uptimeYear": "70.76%",
+    "time": 1466,
+    "timeDay": 904,
+    "timeWeek": 936,
+    "timeMonth": 1462,
+    "timeYear": 1804,
     "dailyMinutesDown": {
       "2025-04-25": 20,
       "2025-03-29": 93,
@@ -286,8 +285,7 @@
       "2024-06-17": 1440,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
-      "2024-06-14": 1440,
-      "2024-06-13": 1440
+      "2024-06-14": 1440
     }
   }
 ]
