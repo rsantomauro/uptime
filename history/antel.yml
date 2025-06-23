@@ -1,7 +1,7 @@
 url: https://pagos.antel.com.uy/epagos-w2w-comercio-web/jsf/error.xhtml
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-06-23T17:56:01.435Z
+status: up
+code: 200
+responseTime: 1202
+lastUpdated: 2025-06-23T18:23:20.563Z
 startTime: 2024-02-20T02:11:11.386Z
 generator: Upptime <https://github.com/upptime/upptime>
