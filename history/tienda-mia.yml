@@ -1,7 +1,7 @@
 url: https://tiendamia.cr
-status: up
-code: 200
-responseTime: 718
-lastUpdated: 2026-02-06T23:13:47.972Z
+status: down
+code: 502
+responseTime: 317
+lastUpdated: 2026-02-07T08:52:09.592Z
 startTime: 2024-03-12T21:56:10.931Z
 generator: Upptime <https://github.com/upptime/upptime>
