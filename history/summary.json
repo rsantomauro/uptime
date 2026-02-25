@@ -31,19 +31,19 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "94.99%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.99%",
     "time": 189,
-    "timeDay": 259,
-    "timeWeek": 116,
-    "timeMonth": 155,
-    "timeYear": 182,
+    "timeDay": 282,
+    "timeWeek": 140,
+    "timeMonth": 160,
+    "timeYear": 183,
     "dailyMinutesDown": {
-      "2026-02-25": 0
+      "2026-02-25": 72
     }
   },
   {
@@ -250,7 +250,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tiendamia.cr.ico",
     "slug": "tienda-mia",
     "status": "up",
-    "uptime": "72.10%",
+    "uptime": "72.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.80%",
