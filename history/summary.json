@@ -85,10 +85,10 @@
     "slug": "tienda-inglesa",
     "status": "down",
     "uptime": "82.29%",
-    "uptimeDay": "58.69%",
+    "uptimeDay": "53.21%",
     "uptimeWeek": "19.15%",
     "uptimeMonth": "15.60%",
-    "uptimeYear": "59.74%",
+    "uptimeYear": "59.73%",
     "time": 917,
     "timeDay": 322,
     "timeWeek": 479,
@@ -252,7 +252,7 @@
       "2026-05-25": 1299,
       "2026-05-26": 1222,
       "2026-05-27": 595,
-      "2026-05-28": 0
+      "2026-05-28": 79
     }
   },
   {
@@ -314,7 +314,7 @@
     "uptime": "67.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "73.13%",
+    "uptimeMonth": "73.31%",
     "uptimeYear": "83.24%",
     "time": 1548,
     "timeDay": 349,
