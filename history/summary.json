@@ -83,17 +83,17 @@
     "url": "https://www.tiendainglesa.com.uy",
     "icon": "https://icons.duckduckgo.com/ip3/www.tiendainglesa.com.uy.ico",
     "slug": "tienda-inglesa",
-    "status": "down",
-    "uptime": "82.19%",
-    "uptimeDay": "50.11%",
+    "status": "up",
+    "uptime": "82.17%",
+    "uptimeDay": "50.12%",
     "uptimeWeek": "26.31%",
     "uptimeMonth": "17.25%",
-    "uptimeYear": "59.43%",
+    "uptimeYear": "59.38%",
     "time": 909,
-    "timeDay": 311,
-    "timeWeek": 418,
-    "timeMonth": 334,
-    "timeYear": 842,
+    "timeDay": 345,
+    "timeWeek": 426,
+    "timeMonth": 337,
+    "timeYear": 841,
     "dailyMinutesDown": {
       "2025-09-14": 24,
       "2025-09-29": 28,
@@ -253,7 +253,7 @@
       "2026-05-26": 1222,
       "2026-05-27": 595,
       "2026-05-28": 1254,
-      "2026-05-29": 402
+      "2026-05-29": 650
     }
   },
   {
@@ -315,7 +315,7 @@
     "uptime": "67.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "78.56%",
+    "uptimeMonth": "79.12%",
     "uptimeYear": "83.24%",
     "time": 1546,
     "timeDay": 344,
