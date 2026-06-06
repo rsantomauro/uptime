@@ -84,16 +84,16 @@
     "url": "https://www.tiendainglesa.com.uy",
     "icon": "https://icons.duckduckgo.com/ip3/www.tiendainglesa.com.uy.ico",
     "slug": "tienda-inglesa",
-    "status": "down",
+    "status": "up",
     "uptime": "81.77%",
-    "uptimeDay": "77.16%",
+    "uptimeDay": "72.52%",
     "uptimeWeek": "36.24%",
     "uptimeMonth": "24.41%",
-    "uptimeYear": "58.07%",
-    "time": 840,
-    "timeDay": 416,
-    "timeWeek": 342,
-    "timeMonth": 337,
+    "uptimeYear": "58.06%",
+    "time": 839,
+    "timeDay": 429,
+    "timeWeek": 348,
+    "timeMonth": 338,
     "timeYear": 804,
     "dailyMinutesDown": {
       "2025-09-14": 24,
@@ -262,7 +262,7 @@
       "2026-06-02": 1440,
       "2026-06-04": 603,
       "2026-06-05": 404,
-      "2026-06-06": 328
+      "2026-06-06": 395
     }
   },
   {
@@ -298,15 +298,15 @@
     "url": "https://app.neilpatel.com/en/login",
     "icon": "https://icons.duckduckgo.com/ip3/app.neilpatel.com.ico",
     "slug": "ubersuggest",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "77.20%",
-    "uptimeWeek": "89.86%",
-    "uptimeMonth": "97.67%",
-    "uptimeYear": "99.78%",
+    "uptimeDay": "72.56%",
+    "uptimeWeek": "89.19%",
+    "uptimeMonth": "97.51%",
+    "uptimeYear": "99.77%",
     "time": 334,
-    "timeDay": 310,
-    "timeWeek": 341,
+    "timeDay": 318,
+    "timeWeek": 343,
     "timeMonth": 355,
     "timeYear": 365,
     "dailyMinutesDown": {
@@ -315,7 +315,7 @@
       "2026-03-22": 51,
       "2026-06-04": 290,
       "2026-06-05": 404,
-      "2026-06-06": 328
+      "2026-06-06": 395
     }
   },
   {
