@@ -85,10 +85,10 @@
     "slug": "tienda-inglesa",
     "status": "down",
     "uptime": "81.78%",
-    "uptimeDay": "99.97%",
+    "uptimeDay": "91.79%",
     "uptimeWeek": "49.18%",
     "uptimeMonth": "27.61%",
-    "uptimeYear": "58.04%",
+    "uptimeYear": "58.01%",
     "time": 833,
     "timeDay": 775,
     "timeWeek": 402,
@@ -263,7 +263,7 @@
       "2026-06-05": 404,
       "2026-06-06": 402,
       "2026-06-07": 93,
-      "2026-06-08": 0
+      "2026-06-08": 118
     }
   },
   {
@@ -300,11 +300,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.neilpatel.com.ico",
     "slug": "ubersuggest",
     "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "88.19%",
-    "uptimeMonth": "97.28%",
-    "uptimeYear": "99.75%",
+    "uptime": "99.80%",
+    "uptimeDay": "91.80%",
+    "uptimeWeek": "87.02%",
+    "uptimeMonth": "97.01%",
+    "uptimeYear": "99.73%",
     "time": 334,
     "timeDay": 238,
     "timeWeek": 298,
@@ -318,7 +318,7 @@
       "2026-06-05": 404,
       "2026-06-06": 402,
       "2026-06-07": 93,
-      "2026-06-08": 0
+      "2026-06-08": 118
     }
   },
   {
@@ -327,7 +327,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tiendamia.cr.ico",
     "slug": "tienda-mia",
     "status": "up",
-    "uptime": "68.17%",
+    "uptime": "68.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.68%",
