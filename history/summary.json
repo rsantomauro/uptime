@@ -83,11 +83,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.tiendainglesa.com.uy.ico",
     "slug": "tienda-inglesa",
     "status": "down",
-    "uptime": "81.17%",
+    "uptime": "81.16%",
     "uptimeDay": "1.32%",
     "uptimeWeek": "12.28%",
     "uptimeMonth": "31.05%",
-    "uptimeYear": "56.11%",
+    "uptimeYear": "56.07%",
     "time": 809,
     "timeDay": 1259,
     "timeWeek": 357,
@@ -270,7 +270,7 @@
       "2026-06-14": 1090,
       "2026-06-16": 1143,
       "2026-06-15": 1440,
-      "2026-06-18": 5,
+      "2026-06-18": 215,
       "2026-06-17": 1440
     }
   },
