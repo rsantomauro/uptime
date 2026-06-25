@@ -9,14 +9,10 @@ sites:
     url: https://en.wikipedia.org
   - name: GitHub
     url: https://github.com
-  - name: Tienda Inglesa
-    url: https://www.tiendainglesa.com.uy
   - name: Antel
     url: https://pagos.antel.com.uy/epagos-w2w-comercio-web/jsf/error.xhtml
-  - name: Ubersuggest
-    url: https://app.neilpatel.com/en/login
-  - name: TiendaMia
-    url: https://tiendamia.cr
+  - name: Burnout
+    url: https://burnout.isanerd.club
 
 
 status-website:
